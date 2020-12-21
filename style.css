@@ -32,7 +32,7 @@ body.dark-mode{
     border-radius: 20px;
 }
 
-.card-group > label {
+.card-group label {
     width: 100%;
     color: #ffffff;
     display: block;
@@ -44,7 +44,7 @@ body.dark-mode{
     line-height: 30px;
 }
 
-.card-group > input {
+.card-group input {
     border: none;
     border-radius: 10px;
     width: 100%;
@@ -54,7 +54,7 @@ body.dark-mode{
     color: black;
 }
 
-.card-group > button {
+.card-group button {
     width: 100px;
     height: 50px;
     background-color: #ffffff;
